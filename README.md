@@ -1,5 +1,5 @@
 # Navigation-MENU
-![girl]![girl](https://im2.ezgif.com/tmp/ezgif-2-2e8ccc787a.gif)
+![girl](https://im2.ezgif.com/tmp/ezgif-2-2e8ccc787a.gif)
 
 
  just a navigation bar
